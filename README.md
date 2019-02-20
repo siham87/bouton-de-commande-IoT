@@ -7,7 +7,7 @@ Bouton de commande IoT
 Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@OSylla92](https://github.com/OSylla92)
 
 ## Video :
-[![video](https://img.youtube.com/vi/=CNCbM1CL.jpg)](https://www.youtube.com/watch?v=CNCbM1CL)
+[![video](https://img.youtube.com/vi/CNCbM1CLmdk/0.jpg)](https://www.youtube.com/watch?v=CNCbM1CLmdk)
 
 
 ## **Bibliothéque utilisée**
