@@ -86,6 +86,6 @@ void loop() {
 ```
 ## **Node-Red**
 
-![](GroceryList-Node-RED.jpg)
+![](GroceryList-Node-RED.png)
 
 ![photo: ](GroceryList2.jpg)
